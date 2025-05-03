@@ -1,0 +1,1 @@
+# splash-mobile-responsive
